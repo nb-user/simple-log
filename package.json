@@ -1,6 +1,6 @@
 {
-  "name": "simple-modern-log",
-  "version": "1.0.0",
+  "name": "simple-log",
+  "version": "1.2.0",
   "dependencies": {
     "modern-syslog": "1.1.2"
   },
